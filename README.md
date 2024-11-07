@@ -8,8 +8,3 @@ Keeps track of experience.
 TO INSTALL: Put the FuBar_ExperienceFu folder into
 	\World of Warcraft\Interface\AddOns\
 
-If you find _any_ bugs, feel free to submit them at
-http://ckknight.wowinterface.com/portal.php?id=54&a=listbugs
-
-If you want to request any features, feel free to submit your ideas at
-http://ckknight.wowinterface.com/portal.php?id=54&a=listfeatures
